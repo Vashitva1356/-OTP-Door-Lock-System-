@@ -49,11 +49,5 @@ The system uses a **keypad** for input, **LCD** for display, and **LEDs + buzzer
 
 ---
 
-## 🎥 Demo
-👉 [GitHub Repo Link](#)  
- 
-
----
-
 ## 👨‍💻 Author
 - [vashitva-chaurasia](https://www.linkedin.com/in/)
